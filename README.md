@@ -1,0 +1,2 @@
+# pdf_transcription_app
+複数のPDFファイルを文字起こしするアプリ
