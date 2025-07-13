@@ -1,10 +1,3 @@
-# pdf_transcription_app
-複数のPDFファイルを文字起こしするアプリ
-=======
-
-# pdf_transcription_app
-複数のPDFファイルを文字起こしするアプリ
-=======
 # PDF全文抽出GUIアプリ
 
 Python + Tkinter + OCRで作成したPDF全文抽出GUIアプリです。
