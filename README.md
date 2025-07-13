@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 # pdf_transcription_app
 複数のPDFファイルを文字起こしするアプリ
 =======
-<<<<<<< HEAD
+
 # pdf_transcription_app
 複数のPDFファイルを文字起こしするアプリ
 =======
